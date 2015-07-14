@@ -1,0 +1,11 @@
+[user]
+	name = iworker-priest
+	email = 1275728058@qq.com
+[color]
+	ui = true
+[alias]
+	lg = log --graph --pretty=oneline --abbrev-commit
+	ci = commit
+	co = checkout
+	br = branch
+	st = status
